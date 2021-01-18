@@ -1,0 +1,18 @@
+R 1203  802
+
+NO ./texture/Mur_noir_1.XPM
+SO ./texture/Mur_noir_2.XPM
+WE ./texture/Mur_gris_2.XPM
+EA ./texture/Mur_gris_1.XPM
+
+
+S ./texture/master_sword.XPM
+
+F 33, 47, 61
+C 66, 73, 73
+
+11111111
+111000001111
+100111001101
+110110S1111111
+111111111
