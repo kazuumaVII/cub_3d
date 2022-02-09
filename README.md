@@ -1,5 +1,10 @@
 # cub_3d
 
+<div align="center">
+<img align="center" src='https://user-images.githubusercontent.com/43440614/153257257-df75350e-e67d-48e5-bd43-29da366a8f29.gif'  /> 
+</div>
+
+
 ## Introduction 🤔
 This project is inspired by the world-famous 90’s game Wolfeinstein 3D, which was the first FPS ever. 
 It will enable to explore ray-casting. My goal will be to make a dynamic view inside a maze, in which you’ll have to find your way
