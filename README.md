@@ -63,10 +63,6 @@ S ./textures/sprites/mario.XPM
 ```
 
 
-## Builtins implemented  🔨
-
-
-
 
 ## Final grade : 105/115 ✅
 Mandatory part : 100/100
