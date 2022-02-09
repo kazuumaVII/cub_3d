@@ -30,7 +30,8 @@ key  | function |
 ---|------|
 left/right arrow or `q`/`e`| turn				|
 `w` `a` `s` `d` | move					|
-`space` | run		
+`space` | run	                                |	
+
 you may edit all these settings:
 
 resolution, ceiling and floor colors (range 0 - 255), walls and sprite textures, map. The map must be sorrounded by walls(1) and have the initial player position and direction (W- west, E- east, N-north, S-south)
