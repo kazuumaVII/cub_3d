@@ -23,7 +23,7 @@ The project runs using the MiniLibX, a simplified version of the Xlib. It can th
         cd cub_3d
         make
 
-3. After building the source `./test` from the project root.
+3. After building the source `./cub3D` from the project root.
 
 
 ## Mandatory  🌐
