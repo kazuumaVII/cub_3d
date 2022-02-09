@@ -1,7 +1,10 @@
 # cub_3d
 
 ## Introduction 🤔
-This project is inspired by the world-famous 90’s game Wolfeinstein 3D, which was the first FPS ever. It will enable to explore ray-casting. My goal will be to make a dynamic view inside a maze, in which you’ll have to find your way
+This project is inspired by the world-famous 90’s game Wolfeinstein 3D, which was the first FPS ever. 
+
+It will enable to explore ray-casting. My goal will be to make a dynamic view inside a maze, in which you’ll have to find your way
+
 The project runs using the MiniLibX, a simplified version of the Xlib. It can therefore only run in MacOSX, preferably on a computer with a solid CPU !
 
 
